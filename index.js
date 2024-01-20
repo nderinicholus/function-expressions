@@ -1,6 +1,4 @@
-// Function Expressions - const sum = number(function(accumulator, element)
-// { return accumulator + element; })
-// console.log(sum);
+// Function Expressions
 
 const numbers = [1, 2, 3, 4, 5, 6];
 const squares = numbers.map(function (element) {
